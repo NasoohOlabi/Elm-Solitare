@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "elm-test": "^0.19.1-revision9",
+    "global": "^4.4.0"
+  }
+}
